@@ -17,7 +17,7 @@ body {
   font-family: monospace;
   white-space: pre;
   line-height: 1.5em;
-  letter-spacing: 5px;
+  letter-spacing: 0.3vw;
   font-size: clamp(0.3rem, 0.7vw, 1rem);
   color: #ebdccb;
   padding: 2rem;
