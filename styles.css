@@ -20,6 +20,7 @@ body {
   letter-spacing: 5px;
   font-size: clamp(0.3rem, 2vw, 1rem);
   color: #ebdccb;
+  padding: 2rem;
 }
 
 p,
@@ -28,4 +29,6 @@ a {
   margin: 1rem;
   font-family: Arial, sans-serif;
   font-family: monospace;
+  position: absolute;
+  bottom: 1rem;
 }
